@@ -1,0 +1,26 @@
+@media (min-width: 320px) {
+	.wrap_title {
+		font-size: 15px;
+	}
+}
+
+@media (min-width: 641px) {
+	.wrap_title {
+		font-size: 32px;
+	}
+}
+
+@media (min-width: 961px) {
+	.wrap_title {
+		font-size: 64px;
+	}
+}
+
+@media (min-width: 1025px) {
+	.wrap_title {
+		font-size: 79px;
+	}
+	
+.wrap_title {
+	color: green;
+}
